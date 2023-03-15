@@ -1,0 +1,29 @@
+*{
+ 
+  font-weight: bold;
+}
+.heading {
+    text-align: left;
+    color: #192f60;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding-left: 35px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    width: 400px;
+    flex: content;
+  }
+  .content {
+    text-align: left;
+    color: #192f60;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .order{
+    margin-left: 1100px;
+    width: 150px;
+  }
+  .itemColor{
+    color: #192f60;
+  }

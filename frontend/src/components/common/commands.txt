@@ -1,0 +1,9 @@
+npm i react-facebook-login
+
+npm i react-google-login
+
+client id:
+608437104666-p20733apqkaif0gls9vmbgve6ii41lal.apps.googleusercontent.com
+
+secret id:
+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
